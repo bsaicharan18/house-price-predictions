@@ -71,11 +71,9 @@ house-price-prediction/
 ---
 Output Image
 
+<img width="365" height="617" alt="Screenshot 2026-05-06 005533" src="https://github.com/user-attachments/assets/778c7964-5017-4dc7-a72f-0d3e6e13fcc5" /><br>
+
 <img width="539" height="666" alt="Screenshot 2026-05-06 005501" src="https://github.com/user-attachments/assets/1c838caa-c725-4e9c-9ca6-1f0dfc0ee2cb" />
-
-
-<img width="365" height="617" alt="Screenshot 2026-05-06 005533" src="https://github.com/user-attachments/assets/778c7964-5017-4dc7-a72f-0d3e6e13fcc5" />
-
 
 📬 Contact
 
