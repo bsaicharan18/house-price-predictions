@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>House Price Prediction</title>
+</head>
+<body>
+
+<h2>House Price Prediction</h2>
+
+<form action="/predict" method="post">
+    <input type="text" name="LotArea" placeholder="LotArea"><br><br>
+    <input type="text" name="BedroomAbvGr" placeholder="Bedrooms"><br><br>
+    <input type="text" name="FullBath" placeholder="Bathrooms"><br><br>
+    <input type="text" name="YearBuilt" placeholder="YearBuilt"><br><br>
+    <input type="text" name="TotalBsmtSF" placeholder="Basement Area"><br><br>
+    <input type="text" name="GarageCars" placeholder="GarageCars"><br><br>
+    <input type="text" name="GrLivArea" placeholder="Living Area"><br><br>
+    <input type="text" name="OverallQual" placeholder="Quality"><br><br>
+
+    <button type="submit">Predict</button>
+</form>
+
+<h3>{{ prediction_text }}</h3>
+
+</body>
+</html>
